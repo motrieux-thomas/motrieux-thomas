@@ -4,10 +4,9 @@ My mantra is to emphasize the user experience and writing a clean and well archi
 
 I consider programming to be a creative process. I enjoy using my creativity and skills to enhance the systems we operate in every day.
 
-
-<a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=motrieux-thomas&count_private=true&theme=highcontrast" />
-</a>
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=motrieux-thomas&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+</p>
 
 ---
 
