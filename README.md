@@ -20,6 +20,7 @@ Provider architecture | DDD : Domain Driven Design | GraphQL | Code generation..
 #### 💻 Web
 
 - VueJS | Typescript
+- NestJS
 - Laravel
 
 #### 🚀 Tools & CI/CD 
