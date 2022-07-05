@@ -15,13 +15,12 @@ I consider programming to be a creative process. I enjoy using my creativity and
 #### 📱 Mobile (iOS & Android)
 
 - **Flutter** <br>
-Provider architecture | DDD : Domain Driven Design | GraphQL | Code generation... | Tests (unit & visual regression)
+Provider architecture | DDD : Domain Driven Design | GraphQL | Code generation... | Tests (unit & visual regression) | CI/CD
 
 #### 💻 Web
-
-- VueJS | Typescript
-- NestJS
-- Laravel
+| **Front** | **Back** |
+|-----------|----------|
+| ● VueJS, Typescript <br> ● Vuetify <br> ● Flutter | ● Node : NestJS, TypeORM... <br> ● PHP : Laravel <br> ● Rest API, GraphQL... |
 
 #### 🚀 Tools & CI/CD 
 
