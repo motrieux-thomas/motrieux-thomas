@@ -41,5 +41,5 @@ Provider architecture | DDD : Domain Driven Design | GraphQL | Code generation..
 ---
 
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=motrieux-thomas&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
+  <img align="center" src="https://github-readme-stats-r19ojlqh6-motrieux-thomas.vercel.app/api?username=motrieux-thomas&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
 </p>
