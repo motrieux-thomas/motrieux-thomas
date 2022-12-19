@@ -39,9 +39,3 @@ Provider (with Riverpod ✨) architecture | DDD : Domain Driven Design | GraphQL
 ### 📚 My current readings 
 - The laws of Human nature : https://www.amazon.fr/Laws-Human-Nature-Robert-Greene/dp/0525428143
 - Deepwork : https://www.amazon.fr/Deep-Work-Focused-Success-Distracted/dp/0349411905
-
----
-
-<p align="center">
-  <img align="center" src="https://github-readme-stats-r19ojlqh6-motrieux-thomas.vercel.app/api?username=motrieux-thomas&count_private=true&bg_color=30,e96443,904e95&title_color=fff&text_color=fff" />
-</p>
