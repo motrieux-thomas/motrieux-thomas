@@ -10,10 +10,10 @@ I consider programming to be a creative process. I enjoy using my creativity and
 
 ### My stacks & skills 👨‍💻
 
-#### 📱 Mobile (iOS & Android)
+#### 📱 Mobile (iOS & Android) - Flutter ✨✨
 
 - **Flutter** <br>
-Provider (with Riverpod ✨) architecture | DDD : Domain Driven Design | GraphQL | Code generation... | 🧪 Tests (unit & visual regression) | CI/CD
+Provider architecture (with Riverpod ✨) | DDD : Domain Driven Design | GraphQL | Code generation... | 🧪 Tests (unit & visual regression) | CI/CD
 
 #### 💻 Web
 | **Front** | **Back** |
